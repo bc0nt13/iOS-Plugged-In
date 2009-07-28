@@ -1,0 +1,10 @@
+This project demonstrates the following features:
+
+	* Determining whether or not a device is plugged in
+	* Receiving notifications when the power state changes
+	* Enabling/disabling the Auto-Lock based upon the power state
+	
+The project contains a Settings bundle to allow the user to dictate the behavior of the 
+application when it is plugged in.
+
+You are free to use this source code in both commercial and non-commercial applications. 
